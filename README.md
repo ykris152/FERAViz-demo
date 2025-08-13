@@ -7,5 +7,5 @@
   Your browser does not support the video tag.
 </video>
 
-[📹 Watch Demo Video](./assets/demo-recording.mp4)
+![📹 Watch Demo Video](./assets/demo-recording.mp4)
 
