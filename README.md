@@ -1,11 +1,2 @@
 # Demo of FERAViz tool
-
-## Demo Video
-
-<video width="600" controls>
-  <source src="./assets/demo-recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-![📹 Watch Demo Video](./assets/demo-recording.mp4)
-
+https://github.com/user-attachments/assets/3780c14b-f5e1-4420-91e5-3378ffb9f5ba
