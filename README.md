@@ -3,6 +3,6 @@
 ## Demo Video
 
 <video width="600" controls>
-  <source src="./assets/demo-recording.webm" type="video/webm">
+  <source src="./assets/demo-recording.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
