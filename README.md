@@ -1,2 +1,2 @@
 # Demo of FERAViz tool
-https://github.com/user-attachments/assets/3780c14b-f5e1-4420-91e5-3378ffb9f5ba
+[demo-recording-compressed.webm](https://github.com/user-attachments/assets/493cc7ef-626a-4e4a-8d77-2828ca23b121)
